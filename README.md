@@ -15,6 +15,7 @@ Flutter · Dart · Provider · OpenRouter
 ## Contents
 
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [What the app sends for a prediction](#what-the-app-sends-for-a-prediction)
 - [Project structure](#project-structure)
 - [Getting started](#getting-started)
@@ -50,6 +51,17 @@ Flutter · Dart · Provider · OpenRouter
 **Plans**
 - Freemium (15 predictions per month), Doctor Pro (999 DA per month) and Hospital (200,000 DA per year).
 - Payment through Stripe Checkout, opened in the browser.
+
+---
+
+## Screenshots
+
+<p>
+  <img src="docs/screenshots/home.png" width="200" alt="Home screen">
+  <img src="docs/screenshots/heartbot.png" width="200" alt="HeartBot">
+  <img src="docs/screenshots/admin.png" width="200" alt="Admin portal">
+  <img src="docs/screenshots/plans.png" width="200" alt="Plans and pricing">
+</p>
 
 ---
 
